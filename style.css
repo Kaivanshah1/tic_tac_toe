@@ -20,6 +20,13 @@ body{
     height: 300px;
     width: 300px;
 }
+.buttons{
+    position: relative;
+}
+.startgame{
+    margin-top: 500px;
+    margin-left: -210px;
+}
 .square{
     height: var(--cell-size);
     width: var(--cell-size);
